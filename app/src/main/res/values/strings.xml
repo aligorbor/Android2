@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">A2app</string>
+    <string name="button1">Hello</string>
+    <string name="text1">Testing of Kotlin language</string>
+    <string name="hello">Hello with Kotlin!!!</string>
+    <string name="property1">Property1</string>
+    <string name="property2">Property2</string>
+    <string name="data_class">Data class</string>
+    <string name="object">Object</string>
+    <string name="cycle">Cycle</string>
 </resources>
